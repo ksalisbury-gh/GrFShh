@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.DivDesigner {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	background-color: #CCC;
+	width: 200px;
+	display: none;
+}
+#info {
+	height: 40px;
+	position: fixed;
+	bottom:0%;
+	width:100%;
+	opacity: 1;
+	font-size: 12px;
+	color: #666;
+	text-align: center;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	height: 142px; /* .push must be the same height as .footer */
+	color: #999;
+}.centercredit {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #33ccff;
+	font-size: 12px;
+}
+.creditlink a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #575757;
+	text-decoration: none;
+}
+.creditlink a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999;
+}
+
+/*
+     FILE ARCHIVED ON 12:41:52 Aug 05, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:26:25 Mar 25, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 1278.027 (2)
+  exclusion.robots: 0.241
+  load_resource: 631.851
+  RedisCDXSource: 4.47
+  CDXLines.iter: 11.081 (3)
+  captures_list: 928.276
+  esindex: 0.013
+  LoadShardBlock: 907.78 (3)
+  exclusion.robots.policy: 0.227
+  PetaboxLoader3.datanode: 199.085 (4)
+*/
