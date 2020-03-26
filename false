@@ -29,6 +29,11 @@ body {
 .wb-autocomplete-suggestion b { font-weight: bold; }
 .wb-autocomplete-suggestion.selected { background: #f0f0f0; }
 </style>
+<style>
+sound {
+display: none;
+}
+</style>
 </head><body bgcolor="#000000" link="#33CCFF" vlink="#33CCFF" class="nimbus-is-editor"><div id="donato" style="position:relative;width:100%;">
   <div id="donato-base">
   </div>
@@ -58,9 +63,12 @@ body {
 
 
 <div align="center"> 
-  <video width="800" height="400" autoplay>
+  <video width="800" height="400" autoplay muted>
   <source src="assets/gracie.mp4" type=video/mp4>
   </video>
+  <audio id="sound" autoplay="true" controls>
+  <source src="assets/gracie.mp3" type="audio/mpeg">
+  </audio>
     <br>
     <font color="#33CCFF" size="3" face="Verdana, Arial, Helvetica, sans-serif">Shh!</font></p>
 </div>
