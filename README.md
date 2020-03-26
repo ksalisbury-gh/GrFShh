@@ -42,3 +42,23 @@ But if you want to check out the custom HTML5 version:
 * Add `?isFlash=false` to the URL.
 
 In some cases, the audio won't load. You may need to refresh the page a couple times to get the audio to work.
+
+### Licenses
+
+This project is licensed under GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
+
+### Acknowledgements
+
+* Credit to Geoffrey Neil and mollifiers for making the original .swf file
+* Credit to James L. Brooks, Richard Sakai, Sony Pictures and 20th Century Studios for Gracie Films
+* Credit to Jeffrey Townsend for the Gracie Films logo music
+* Credit to whoever owns all the sounds used
+* Special thanks to Newgrounds for their Swivel software, which was used to help make the HTML5 version.
+* Special thanks to SoThink for their SWF Decompiler, which was also used to help make the HTML5 version.
+* Special thanks to Handbrake, which was used to compress the video file of the HTML5 version to make the filesize smaller, therefore decreasing loading time.
+
+### Disclaimer
+
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+
+I do not own the rights to any copyrighted material used in this project. This project is STRICTLY for historical purposes only, to show how the Gracie Films website used to be like back then, and therefore protects it under fair use. If anyone over at Gracie Films wants me to take it down, I will be happy to do so.
