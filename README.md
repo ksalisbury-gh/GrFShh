@@ -1,6 +1,6 @@
 # GrFShh
 
-A PHP wrapper of the old version of the Gracie Films site. There are 2 versions that it can do; an interactive Flash version, and a not-so-interactive HTML5 version.
+A PHP wrapper of the old version of the Gracie Films site, which also utilizes JavaScript and HTML. There are 2 versions that it can do; an interactive Flash version, and a not-so-interactive HTML5 version.
 
 ## Live demo
 
@@ -12,7 +12,7 @@ If you want to host an offline server of GrFShh, just follow these instructions 
 
 ### Pre-requisites
 
-You will only need WampServer in order to do it. You can download and install WampServer over at [this link](http://www.wampserver.com/en/).
+You will only need WampServer in order for it to work properly. You can download and install WampServer over at [this link](http://www.wampserver.com/en/).
 
 ### Installing
 
