@@ -2,32 +2,21 @@
 
 A PHP wrapper of the old version of the Gracie Films site, which also utilizes JavaScript and HTML. There are 2 versions that it can do; an interactive Flash version, and a not-so-interactive HTML5 version.
 
-## Live demo
+## How to use
 
-A live demo of GrFShh can be found over at [this link](http://kanimaki07.000webhostapp.com/projects/GrFShh.php?isFlash=true).
+If you want to use GrFShh, there are 2 ways to do it.
 
-## Getting started
+1. Navigate to [the site on 000webhost](http://kanimaki07.000webhostapp.com/projects/GrFShh.php?isFlash=true) to view an online, pre-configured version.
+2. If you want to do it offline, install [WampServer](http://www.wampserver.com/en/) then clone/download this project. When you're done, unzip the folder, copy the path where you unzipped the folder, and follow these steps:
 
-If you want to host an offline server of GrFShh, just follow these instructions to get you started.
-
-### Pre-requisites
-
-You will only need WampServer in order for it to work properly. You can download and install WampServer over at [this link](http://www.wampserver.com/en/).
-
-### Installing
-
-After you've installed WampServer, here's how to set this up.
-
-* Download the master .zip of this repository, and extract it somewhere.
-* Navigate to `localhost` in your browser.
+* Navigate to `localhost`
 * Click on "Add a Virtual Host"
-* Name the virtual space "grfshh".
-* Go to where you extracted the .zip, copy the path to it and paste it into the complete absolute path of the Virtual Host folder.
+* Name the virtual space whatever you want, preferrably "grfshh".
+* Go to where you extracted the folder, copy the path to it's location and paste it into the complete absolute path of the Virtual Host folder.
 * Click the "Start the creation of the Virtual Host" button
-* When it's done, navigate to the WampServer tray icon, right click it, go into "Tools", and click on "Restart DNS".
-* Wait 5-10 seconds.
-* After that long, navigate to `grfshh` in your browser.
-* It works!
+* When it's done, navigate to the WampServer tray icon, right click, go into "Tools" and click "Restart DNS".
+* Wait 5-10 seconds and make sure a command prompt window pops up for a split-second.
+* After all that, navigate to whatever you named the virtual host in your browser. E.g. I named mine `grfshh`.
 
 ### How to switch versions
 
