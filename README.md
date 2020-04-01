@@ -7,6 +7,7 @@ A PHP wrapper of the old version of the Gracie Films site, which also utilizes J
 If you want to use GrFShh, there are 2 ways to do it.
 
 1. Navigate to [the site on 000webhost](http://kanimaki07.000webhostapp.com/projects/GrFShh.php?isFlash=true) to view an online, pre-configured version.
+
 2. If you want to do it offline, install [WampServer](http://www.wampserver.com/en/) then clone/download this project. When you're done, unzip the folder, copy the path where you unzipped the folder, and follow these steps:
 
 * Navigate to `localhost`
