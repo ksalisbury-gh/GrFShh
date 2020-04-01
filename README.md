@@ -10,6 +10,7 @@ If you want to use GrFShh, there are 2 ways to do it.
 
 2. If you want to do it offline, install [WampServer](http://www.wampserver.com/en/) then clone/download this project. When you're done, unzip the folder, copy the path where you unzipped the folder, and follow these steps:
 
+
 * Navigate to `localhost`
 * Click on "Add a Virtual Host"
 * Name the virtual space whatever you want, preferrably "grfshh".
